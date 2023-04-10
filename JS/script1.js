@@ -1,1 +1,1 @@
-document.write("bts");
+document.write("BTS");
