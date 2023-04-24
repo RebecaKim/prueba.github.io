@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Convertir Grados</title>
-</head>
-<body>  
-
-    <script>  
-    </script>  
-</body>
-</html>
-
 var celsius1 = prompt("Introduzca la temperatura en grados celsius: ");
 celsius1 =parseFloat(celsius1);
 //Conversión corta:
